@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{object.title|truncatechars:15}}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col"></div>
+    <div class="col-8">
+        {{object.text|safe}}
+        <form action="" method="POST">
+            {% csrf_token %}
+            댓글을 남겨주세요: <input type="text">
+        <input type="submit" value="제출">
+        </form>
+        {% load tagging_tags %}
+
+        {% tags_for_object object as tags %}
+        {% if tags %}
+        Tags :
+        {% for tag in tags %}
+        <a href="{% url 'post:post_tag' tag.name %} ">#{{tag.name}}</a>
+        {% endfor %}
+        {% endif %}
+    </div>
+    <div class="col"></div>
+</div>
+
+{% endblock %}

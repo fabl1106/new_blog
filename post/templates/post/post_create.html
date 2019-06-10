@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+<style>
+    .title {
+        width: 50px;
+        height: 10px;
+    }
+
+    .text {
+        width : 100px;
+        height : 100px;
+    }
+
+    .group {
+        width : 100px;
+        height : 200px;
+    }
+</style>
+
+
+<form action="" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+
+
+    <input type="submit" value="제출">
+</form>
+{% endblock %}
