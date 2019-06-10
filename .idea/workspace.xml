@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d886b55-f45b-4ce8-bde2-bf3c1bedf05a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ajax/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../instagram1/photo/static/images/instagramicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/templates/drive/drive_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/templates/drive/drive_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/templates/drive/drive_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/templates/drive/drive_main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/templates/drive/drive_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/drive/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jangcar/layout/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi2_database/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi2_database/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi2_database/.idea/multi2_database.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi2_database/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi2_database/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi_database/config/master_slave_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multi_database/config/user_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/new_blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/category_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/part_category_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/post_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/post_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/post_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templates/post/tag_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/templatetags/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/aboutme/static/images/bu-k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/aboutme/static/images/bu-k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/aboutme/templates/aboutme/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../portfolio/aboutme/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restapi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restapi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restapi/.idea/restapi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restapi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restapi/member/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/.idea/tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/snippets/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/snippets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tutorial/tutorial/tutorial/quickstart/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../editor_project/post/templates/post/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../editor_project/post/templates/post/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../editor_project/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../editor_project/post/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,33 +15,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/post/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comment/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comment/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="66">
               <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -108,10 +26,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
+            <state relative-caret-position="693">
               <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
@@ -121,9 +39,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="990">
               <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
             </state>
           </provider>
@@ -156,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post/templates/post/post_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
+            <state relative-caret-position="638">
               <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
             </state>
           </provider>
@@ -165,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layout/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="550">
               <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
             </state>
           </provider>
@@ -197,7 +129,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -220,12 +152,13 @@
         <option value="$PROJECT_DIR$/comment/admin.py" />
         <option value="$PROJECT_DIR$/post/views.py" />
         <option value="$PROJECT_DIR$/post/templates/post/post_detail.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="34" />
-    <option name="y" value="25" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -321,17 +254,18 @@
       <workItem from="1559691882905" duration="1000" />
       <workItem from="1559802111293" duration="1503000" />
       <workItem from="1559869806569" duration="7438000" />
+      <workItem from="1560129366233" duration="161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21471000" />
+    <option name="totallyTimeSpent" value="21632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="25" width="1680" height="1027" extended-state="0" />
+    <frame x="34" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1996337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2020757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -426,27 +360,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/base.html">
+    <entry file="file://$PROJECT_DIR$/post/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/templates/post/part_category_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="66">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post/templates/post/category_list.html">
+    <entry file="file://$PROJECT_DIR$/comment/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -460,59 +407,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/settings.py">
+    <entry file="file://$PROJECT_DIR$/post/templates/post/part_category_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="154">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/post/templates/post/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
+        <state relative-caret-position="638">
           <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post/templates/post/category_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/post/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
+        <state relative-caret-position="693">
           <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
