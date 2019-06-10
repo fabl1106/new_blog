@@ -25,7 +25,7 @@ SECRET_KEY = '(3g!=vy!ik^-6yc8np86nhj!*h!_z5g2yh%hl+mvink-xft142'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'ckeditor_uploader',
     'post',
     'tagging',
-    'comment'
+    'comment',
 ]
 
 MIDDLEWARE = [
@@ -142,6 +142,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
